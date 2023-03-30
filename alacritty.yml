@@ -218,7 +218,7 @@ hints:
       mods: None
     binding:
       key: U
-      mods: Control|Shift
+      mods: Alt
 
 # Mouse bindings
 #
